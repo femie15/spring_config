@@ -9,7 +9,8 @@ configserver:
 
 # Default JWT secret token (to be changed in production!)
 jhipster:
-    security:
-        authentication:
-            jwt:
-                secret: MTk1YThmMDQ5YTlhNzc1MjliZjk0Y2QwYjMyYzgyZmZjZGYzMGUyMzExNmQxNzM4NzMxMTFhNmNkYjgxYjM4ODdhZTQwNmRiZDk3NTAzZDk2MGRiZjhmOTA1NzM5MDQzMzUxYjE4NmJlNzAyZGIzYTdiNDg2ZjU0ODM0OTkzZmY=
+  security:
+    authentication:
+      jwt:
+        secret: MTk1YThmMDQ5YTlhNzc1MjliZjk0Y2QwYjMyYzgyZmZjZGYzMGUyMzExNmQxNzM4NzMxMTFhNmNkYjgxYjM4ODdhZTQwNmRiZDk3NTAzZDk2MGRiZjhmOTA1NzM5MDQzMzUxYjE4NmJlNzAyZGIzYTdiNDg2ZjU0ODM0OTkzZmY=
+        base64-secret: MTk1YThmMDQ5YTlhNzc1MjliZjk0Y2QwYjMyYzgyZmZjZGYzMGUyMzExNmQxNzM4NzMxMTFhNmNkYjgxYjM4ODdhZTQwNmRiZDk3NTAzZDk2MGRiZjhmOTA1NzM5MDQzMzUxYjE4NmJlNzAyZGIzYTdiNDg2ZjU0ODM0OTkzZmY=
